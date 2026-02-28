@@ -11,14 +11,16 @@ ba3eee7c8a4a52d371fffa9596451d372d1f9e99526ab93debd17a1ccfc93f7a
 
 [
     {
-        "device_id": "e316c9831b65b200",
-        "key": "12345",
-        "expirydate": "31-12-2026",
+        "device_id": "device123",
+        "username": "user1",
+        "password": "pass123",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
         "device_id": "device456",
-        "key": "key67890",
+        "username": "user2",
+        "password": "pass456",
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }
